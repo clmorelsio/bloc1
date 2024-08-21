@@ -5,5 +5,7 @@
 
 ## POST
 - permet d'envoyer des informations au serveur
-- doivent donc être présentes dans le corps de la requête
+	- doivent donc être présentes dans le corps de la requête
 - peut par exemple demander modification sur une ressource
+
+- ? URLs/exs précis ?
