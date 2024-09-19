@@ -1,4 +1,18 @@
-div {
+body{
+    margin: 150px;
+	font-family: "Roboto", system-ui;
+}
+
+.grey-block {
 	background-color: #eaeaea;
 }
 
+.gras-rouge {
+	font-weight: bold;
+	color: red;
+}
+
+.line {
+	height: 1px;
+	background: black;
+}

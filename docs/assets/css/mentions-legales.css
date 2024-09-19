@@ -1,0 +1,22 @@
+body{
+    margin: 150px;
+    font-family: "Roboto", system-ui;
+}
+
+h1 {
+    font-weight: bold;
+}
+
+h2 {
+    color: green;
+    text-decoration: underline;
+}
+
+.gras-noir{
+    font-weight: bold;
+}
+
+.gras-rose{
+    font-weight: bold;
+    color: pink;
+}
