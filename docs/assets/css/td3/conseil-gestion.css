@@ -1,0 +1,13 @@
+.underline {
+    text-decoration: underline;
+}
+
+#footer {
+    background-color: rgb(14, 22, 22);
+    padding-block: 8px;
+}
+
+footer>p {
+    justify-content: center;
+    align-items: center;
+}
