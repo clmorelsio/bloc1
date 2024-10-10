@@ -2,12 +2,43 @@
     text-decoration: underline;
 }
 
-#footer {
+main {
+    background-color: #8d875c;
+    justify-content: center;
+    align-items: center;
+}
+
+.top-box {
+    display: flex;
+    background-color: orange;
+    justify-content: center;
+    align-items: center;
+}
+
+#main-background-pic {
+    display: flex;
+    margin: auto;
+    width: 100%;
+    align-content: center;
+}
+
+#bottom-row {
+    align-items: baseline;
+    justify-items: space-between;
+    justify-items: center;
+}
+
+.bottom-boxes {
+    display: block;
+}
+
+footer {
     background-color: rgb(14, 22, 22);
     padding-block: 8px;
+    justify-content: center;
 }
 
 footer>p {
+    display: flex;
     justify-content: center;
-    align-items: center;
 }
